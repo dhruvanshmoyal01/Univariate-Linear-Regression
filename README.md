@@ -4,10 +4,10 @@ In this project, I have performed machine learning without using any of the popu
 
 Projects Include: <br />
 Loading the Data and Libraries <br />
-Visualize the Data
-Compute the Cost Function 𝐽(𝜃)
-Gradient Descent
-Visualize the Cost Function 𝐽(𝜃)
-Plot the Convergence
-Training Data with Univariate Linear Regression Fit
+Visualize the Data <br />
+Compute the Cost Function 𝐽(𝜃) <br />
+Gradient Descent <br />
+Visualize the Cost Function 𝐽(𝜃) <br />
+Plot the Convergence <br />
+Training Data with Univariate Linear Regression Fit <br />
 Inference using the optimized 𝜃 values
